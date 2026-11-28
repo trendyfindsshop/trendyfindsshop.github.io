@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://trendyfindsshop.github.io/sitemap.xml
